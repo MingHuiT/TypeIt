@@ -6,19 +6,19 @@
     --textSecondary: #95818D;
     --primaryColor: #F9C846;
 }
+
 body{
     font-family: 'Space Mono', monospace;
     background-color:var(--bgColor);
     color: var(--textPrimary);
     font-size: 1.4rem;
 }
+
 main{
-    width: 600px;
-    margin: 50px auto;
+    width: 800px;
+    margin: 40px auto;
 }
-h1{
-    color: var(--primaryColor);
-}
+
 h1 img{
     width: 40px;
 }
@@ -40,15 +40,15 @@ h1 img{
 button{
     background: rgba(255,255,255,.2);
     border:0;
-    color: rgba(255,255,255,.5);
-    padding: 5px 20px;
+    color: rgba(255,255,255,.7);
+    padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
 }
 
 div#game{
     line-height:35px;
-    height:105px;
+    height:210px;
     overflow: hidden;
     position: relative;
 }
@@ -109,9 +109,9 @@ div.word{
     height: 1.6rem;
     background: var(--primaryColor);
     position: fixed;
-    top: 198px;
-    left: 18px;
-    animation: blink .3s infinite;
+    top: 210px;
+    left: 375px;
+    animation: blink .5s infinite;
 }
 
 #game:focus #cursor{
