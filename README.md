@@ -4,4 +4,4 @@ Welcome to my latest project, a web application crafted using the dynamic trio o
 
 With every line of code, I've poured my creativity and passion into this project. Join me on this journey as I unveil the magic that HTML, CSS, and JavaScript can create when combined in the right way.
 
-Your site is live at https://minghuit.github.io/TypeIt/
+The site is live at https://minghuit.github.io/TypeIt/
